@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Bai10Application<bai10>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.bai10.Bai10Application",
+            "projectName": "bai10",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
